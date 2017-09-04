@@ -36,7 +36,7 @@
 ### 安装和运行程序
 - 克隆项目
 ```
-$ git clone https://github.com
+$ git clone https://github.com/sunflower65/play-music.git
 ```
 - 安装依赖
 ```$xslt
