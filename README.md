@@ -7,6 +7,7 @@
 - 路由信息同步：react-router-redux
 - 音乐播放内核：jplayer
 - 样式：less
+
 ###项目目录结构：
 ```
 .
